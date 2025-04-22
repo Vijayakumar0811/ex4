@@ -28,7 +28,10 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-```<html>
+```
+map.html
+
+<html>
 <head>
 <title>My City</title>
  </head>
@@ -50,18 +53,19 @@ Execute the programs and publish them.
     
 </map>
 </center>
- </body>
- </html>```
+</body>
+</html>
 
-```html>
+Phoenix.html
 
+<html>
 <head>
 
 <title>My Home Town</title>
 
 </head>
 
-<body bgcolor="pink">
+<body bgcolor="yellow">
 
 <h1 align="center">
 
@@ -79,7 +83,7 @@ Execute the programs and publish them.
 
 <p align="justify">
 
-<font face="Yellow" size="5">
+<font face="Georgia" size="5">
     Phoenix Marketcity Chennai, located in Velachery, is one of the largest shopping malls in the city, offering a mix of retail, dining, and entertainment experiences. Opened in January 2013, it spans 1 million square feet and houses over 250 stores, including global brands. The mall features Chennai’s first IMAX screen, a gaming arcade, and a variety of restaurants, making it a popular destination for shopping and leisure.
 
 
@@ -87,17 +91,18 @@ Execute the programs and publish them.
 
 </body>
 
-</html>```
+</html>
 
-```html>
+iit.html
 
+<html>
 <head>
 
 <title>My Home Town</title>
 
 </head>
 
-<body bgcolor="pink">
+<body bgcolor="palegreen">
 
 <h1 align="center">
 
@@ -123,9 +128,12 @@ Execute the programs and publish them.
 
 </body>
 
-</html>```
+</html>
 
-```html>
+
+lake.html
+
+<html>
 
 <head>
 
@@ -151,7 +159,7 @@ Execute the programs and publish them.
 
 <p align="justify">
 
-<font face="Cyan" size="5">
+<font face="Georgia" size="5">
     Velachery Lake, located in Chennai, is a vital waterbody that helps manage monsoon runoff and supports groundwater recharge. Over the years, rapid urbanization has led to significant encroachment, reducing its original size from 265 acres to just 55 acres. Efforts have been proposed to restore and beautify the lake, including fencing, walking decks, and plantation projects.
 
 
@@ -159,18 +167,18 @@ Execute the programs and publish them.
 
 </body>
 
-</html>```
+</html>
+```
 
 ## OUTPUT
 
-![Screenshot 2025-04-22 122333](https://github.com/user-attachments/assets/1c3a2dd6-7629-4dc1-8933-9987c8cd2432)
+![Screenshot 2025-04-22 122333](https://github.com/user-attachments/assets/02d28c89-5dfe-4627-930d-6028026d2c92)
 
-![Screenshot 2025-04-22 122403](https://github.com/user-attachments/assets/d3cbb7ae-8143-4b4d-b071-abd1cff0761b)
+![Screenshot 2025-04-22 134836](https://github.com/user-attachments/assets/9ce31311-ddaf-41b9-b055-993782a08dd2)
 
-![Screenshot 2025-04-22 122455](https://github.com/user-attachments/assets/3f7d0b31-92e6-4287-b267-85e6aed9d120)
+![Screenshot 2025-04-22 134709](https://github.com/user-attachments/assets/454e872b-f92d-44c0-9201-c7abfd179dbc)
 
-![Screenshot 2025-04-22 122430](https://github.com/user-attachments/assets/a213e1a4-8804-4c93-90fb-5b453b4a9897)
-
+![Screenshot 2025-04-22 134719](https://github.com/user-attachments/assets/efe5d68b-a013-4b6c-8d78-40a1cccfd469)
 
 
 
